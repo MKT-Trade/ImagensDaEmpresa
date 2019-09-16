@@ -2,7 +2,7 @@
 <table style="height: 2309px; width: 1046.5px; border-color: #ffffff; background-color: #ffffff;">
 <tbody>
 <tr style="height: 100px;">
-<td style="height: 100px; width: 1046.5px; text-align: center;" colspan="2" align="center"><center><span style="font-size: 12pt;"><img src="https://raw.githubusercontent.com/MKT-Trade/ImagensDaEmpresa/master/Email/MKT-totem/i%CC%81ndice.jpg" width="592" height="149" /></span></center><center>
+<td style="height: 100px; width: 1046.5px; text-align: center;" colspan="2" align="center"><center><span style="font-size: 12pt;"><img src="https://raw.githubusercontent.com/MKT-Trade/ImagensDaEmpresa/master/Email/MKT-totem/Logo%20MKT%20Preto.png" width="592" height="149" /></span></center><center>
 <p style="text-align: center;" align="center"><span style="color: #00ccff; font-size: 18pt;"><strong><span style="font-family: times new roman, times, serif;"></span><span style="font-family: times new roman, times, serif; color: #ff0000;">Totens Interativos de RECEITAS, conhe&ccedil;a essa novidade!</span></strong></span></p>
 </center></td>
 </tr>
